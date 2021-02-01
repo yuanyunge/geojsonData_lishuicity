@@ -1,1 +1,2 @@
-# geojsonData_lishuicity
+# 浙江省丽水市坐标边界geojson数据，包含第四级乡镇坐标数据
+适用于echarts等绘图插件绘制丽水市的各街道区县地图，点击各区县绘制各乡镇、社区地图。
